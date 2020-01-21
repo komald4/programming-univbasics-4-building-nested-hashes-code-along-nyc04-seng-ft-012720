@@ -8,7 +8,7 @@ def third_challenge
    },
    :capulet => {
       :patriarch => {name:"Lady Capulet", age: "50"}
-      :matriarch => {{name:"Lord Capulet", age: "51"}
+      :matriarch => {name:"Lord Capulet", age: "51"}
       :heroine => {name:"Juliet", age: "15", status: "alive"}
       :heroine_friends => []
    }
